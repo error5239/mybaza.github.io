@@ -1,0 +1,37 @@
+body {
+    margin: 100px 300px;
+    background: url(pict.img/fon.jpg);
+    border: 3px solid rgb(83, 37, 182); 
+    
+}
+
+body>div {
+    background-color: #f5e4d9;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.golova {
+    font-family: 'Comic Sans MS';
+    text-align: center
+}
+
+h4 {
+    text-align: center;
+}
+
+span {
+    font-family: 'Comic Sans MS';
+    color: rgb(83, 37, 182);
+}
+
+.pauk {
+    float: right;
+    margin: 5px 0px 0px 20px;
+
+}
+
+.chp {
+    margin: 20px 100px;
+}
+
